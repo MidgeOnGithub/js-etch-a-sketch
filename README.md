@@ -1,0 +1,2 @@
+## The Second Odin on Rails JS [Project](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project)
+This project is meant to demonstrate basic JS knowledge of how to create and interact with simple, dynamic DOM elements.
