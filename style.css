@@ -9,6 +9,11 @@ h1 {
     color: #0088ff
 }
 
-.grid {
+#grid {
+    box-sizing: border-box;
     display: grid;
+    height: 600px;
+    width: 6000px;
+    margin: 15px auto;
+    border: 2px solid #0077ff;
 }
