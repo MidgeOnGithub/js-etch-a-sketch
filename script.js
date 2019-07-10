@@ -23,7 +23,6 @@ function createGrid(size) {
             let cell = document.createElement('span');
             cell.style.backgroundColor = 'black';
             cell.style.opacity = '0';
-            // cell.addEventListener('mouseover', darken);
             cell.style.gridColumn = `${col} / span 1`;
             cell.style.gridRow = `${row} / span 1`;
             container.appendChild(cell); 
